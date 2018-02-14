@@ -1,0 +1,61 @@
+{
+"search1": "بحث",
+"browse1": "استعراض",
+"myBookings1": "حجوزات بي",
+"specialOffers1": "العروض الخاصة",
+"blog1": "المدونة",
+"settings1": "إعدادات",
+"exit1": "إنهاء",
+
+"searchPlaceholder1": "فندق المدينة أو البلد",
+"checkin1": "تحقق في",
+"checkout1": "راجع",
+"adults1": "الكبار",
+"children1": "الأطفال",
+
+"browseHotels1": "استعرض الفنادق",
+"view1": "عرض",
+
+"searchResults1": "نتائج البحث",
+
+"invoiceNo1": "رقم الفاتورة",
+"invoiceCode1": "مدونة الفاتورة",
+"viewInvoice1": "مشاهدة الفاتورة",
+
+"blog1": "المدونة",
+
+"post1": "بوست",
+
+"hotelDetails1": "تفاصيل الفندق",
+"rooms1": "غرف",
+"overview1": "نظرة عامة",
+"amenities1": "وسائل الراحة",
+"reviews1": "التعليقات",
+"cancel1": "إلغاء",
+"proceedBooking1": "انتقل الحجز",
+"bookNow1": "احجز الآن",
+
+"firstName1": "الاسم الأول",
+"lastName1": "اسم العائلة",
+"email1": "البريد الإلكتروني",
+"PHONE1": "الهاتف",
+"address1": "العنوان",
+"proceed1": "المضي قدما",
+
+"invoice1": "الفاتورة",
+
+"theme1": "موضوع",
+"language1": "اللغة",
+"background1": "الخلفية",
+
+"alsoApplyTo1": "ينطبق أيضا على",
+"topbar1": "Topbar",
+"buttons1": "أزرار",
+
+"languageSettings1": "إعدادات اللغة",
+"languageDetection1": "الكشف عن اللغة",
+"autoDetectLanguage1": "كشف تلقائي اللغة",
+"detectedLanguage1": "اللغة الكشف عن",
+
+"offer1": "عرض"
+}

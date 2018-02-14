@@ -1,0 +1,61 @@
+{
+"search1": "Ara",
+"browse1": "Gözat",
+"myBookings1": "Benim Rezervasyonları",
+"specialOffers1": "Özel Teklifler",
+"blog1": "Blog",
+"settings1": "Ayarlar",
+"exit1": "Çıkış",
+
+"searchPlaceholder1": "Otel, Şehir veya ülke",
+"checkin1": "Check",
+"checkout1": "Çıkış",
+"adults1": "Yetişkin",
+"children1": "Çocuklar",
+
+"browseHotels1": "Otel Arama",
+"view1": "Görünüm",
+
+"searchResults1": "Arama Sonuçları",
+
+"invoiceNo1": "Fatura No",
+"invoiceCode1": "Fatura Kodu",
+"viewInvoice1": "Görünüm Fatura",
+
+"blog1": "Blog",
+
+"post1": "Post",
+
+"hotelDetails1": "Otel Detayları",
+"rooms1": "Rooms",
+"overview1": "Genel Değerlendirme1",
+"amenities1": "Özellikler",
+"reviews1": "Yorum",
+"cancel1": "İptal",
+"ProceedBooking1": "Rezervasyon Devam",
+"BookNow1": "Book Now",
+
+"FirstName1": "Ad",
+"LastName1": "Soyadı",
+"Email1": "E-posta",
+"phone1": "Telefon",
+"address1": "Adres",
+"proceed1": "Devam",
+
+"invoice1": "Fatura",
+
+"theme1": "Tema",
+"language1": "Dil",
+"background1": "Arka plan",
+
+"alsoApplyTo1": "Ayrıca uygulanır",
+"topbar1": "Topbar",
+"buttons1": "Düğmeler",
+
+"languageSettings1": "Dil Ayarları",
+"languageDetection1": "Dil Tespit",
+"autoDetectLanguage1": "Otomatik Dili algıla",
+"detectedLanguage1": "algılandı dil",
+
+"offer1": "teklif"
+}

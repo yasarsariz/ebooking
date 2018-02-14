@@ -1,0 +1,61 @@
+{
+"search1": "Buscar",
+"browse1": "Examinar",
+"myBookings1": "Mi Reserva",
+"specialOffers1": "Ofertas Especiales",
+"blog1": "Blog",
+"settings1": "Ajustes",
+"exit1": "Salir",
+
+"searchPlaceholder1": "Hotel, Ciudad o País",
+"checkin1": "Llegada",
+"checkout1": "Salida",
+"adultos1": "adultos",
+"children1": "Niños",
+
+"browseHotels1": "Busque hoteles",
+"view1": "Ver",
+
+"searchResults1": "Resultados de la búsqueda",
+
+"invoiceNo1": "Factura No",
+"invoiceCode1": "Código de facturas",
+"viewInvoice1": "Ver la factura",
+
+"blog1": "Blog",
+
+"post1": "Post",
+
+"hotelDetails1": "Detalles del hotel",
+"rooms1": "Rooms",
+"overview1": "Información general",
+"amenities1": "Servicios",
+"reviews1": "Comentarios",
+"cancel1": "Cancelar",
+"proceedBooking1": "Continuar Reserva",
+"bookNow1": "Reservar",
+
+"firstName1": "Nombre",
+"lastName1": "Apellido",
+"email1": "Correo electrónico",
+"phone1": "Teléfono",
+"address1": "Dirección",
+"proceed1": "Proceder",
+
+"invoice1": "Factura",
+
+"theme1": "Tema",
+"language1": "Idioma",
+"background1": "Antecedentes",
+
+"alsoApplyTo1": "también se aplica a",
+"topbar1": "Topbar",
+"buttons1": "Botones",
+
+"languageSettings1": "Configuración de idioma",
+"languageDetection1": "Detección de idioma",
+"autoDetectLanguage1": "Detección automática de idioma",
+"detectedLanguage1": "Idioma detectado",
+
+"offer1": "oferta"
+}

@@ -1,0 +1,19 @@
+{
+	"search1" 			: "Search",
+	"browse1"			: "Browse",
+	"myBookings1" 		: "My Bookings",
+	"specialOffers1" 	: "Special Offers",
+	"blog1" 			: "Blog",
+	"settings1" 		: "Settings",
+	"exit1"				: "Exit",
+
+	"searchPlaceholder1" : "Hotel, City or Country",
+	"checkin1"			: "Check in",
+	"checkout1"			: "Check out",
+	"adults1"			: "Adults",
+	"children1"			: "Children",
+
+	"browseHotels1"		: "Browse Hotels",
+	"view1"				: "View"
+
+}
